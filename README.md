@@ -27,7 +27,7 @@ Install the required tools before running the flowgraphs:
 3.	Install UHD drivers for the USRP B210
     Follow the Ettus Research installation guide for building and installing the USRP open-source toolchain on Linux:
   	https://kb.ettus.com/Building_and_Installing_the_USRP_Open-Source_Toolchain_(UHD_and_GNU_Radio)_on_Linux
-4.	Install gr-aoa 
+4.	Install gr-aoa from https://github.com/MarcinWachowiak/gr-aoa
 5.	Clone this repository
 
 Flowgraphs
